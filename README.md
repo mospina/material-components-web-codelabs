@@ -52,5 +52,6 @@ $ npm start
 $ npm install @material/textfield@1.0.1
 $ npm install @material/button@1.0.1
 $ npm install @material/ripple@1.0.1
+...
 ```
 
